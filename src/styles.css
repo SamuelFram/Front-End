@@ -1,0 +1,37 @@
+.nombre{
+    padding-bottom: 0px;
+}
+
+.redondear{
+    border-radius: 5%
+}
+.fondo{
+    background-color: blueviolet;
+         }
+.fondo2{
+    background-color: rgb(47, 12, 80);
+}
+.fondo7{
+    background-color: rgb(116, 80, 150);
+}
+.fondo3{
+    background-image: url("./assets/programacion.jpg");
+    opacity: 0.8;
+}
+.fondo4{
+    background-color: rgb(94, 12, 170);
+}
+
+.foto{
+    padding-top: 0%;
+   padding-bottom: 10px;
+   padding-left: 15px;
+   
+}
+.terms {
+    display: flex;
+  }
+  
+  .terms > p {
+    margin: 0;
+  }
